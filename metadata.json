@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Chat",
+  "description": "A sleek and responsive chat application powered by the Gemini API, featuring Google account login for a personalized experience.",
+  "requestFramePermissions": []
+}
